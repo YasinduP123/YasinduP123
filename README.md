@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasindu Pathiraja</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasindup123&label=Profile%20views&color=0e75b6&style=flat" alt="yasindup123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasindup123&label=Profile%20views&color=black&style=flat" alt="yasindup123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasindup123" alt="yasindup123" /></a> </p>
 
